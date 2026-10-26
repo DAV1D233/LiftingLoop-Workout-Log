@@ -1,0 +1,242 @@
+[
+  {
+    "color": "#000000",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:171",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:184",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:71",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:72",
+      "app/src/main/java/com/fitlog/app/ui/home/HomeDock.kt:340"
+    ]
+  },
+  {
+    "color": "#00000000",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/calendar/CalendarScreen.kt:287",
+      "app/src/main/java/com/fitlog/app/ui/calendar/CalendarScreen.kt:55",
+      "app/src/main/java/com/fitlog/app/ui/components/AppButtons.kt:107",
+      "app/src/main/java/com/fitlog/app/ui/components/AppButtons.kt:77",
+      "app/src/main/java/com/fitlog/app/ui/components/Components.kt:39",
+      "app/src/main/java/com/fitlog/app/ui/diet/DietHistoryScreen.kt:98",
+      "app/src/main/java/com/fitlog/app/ui/diet/FoodComponents.kt:50",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:160",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:165",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:176",
+      "app/src/main/java/com/fitlog/app/ui/home/HomeScreen.kt:163",
+      "app/src/main/java/com/fitlog/app/ui/workout/ScheduleCalendarPreview.kt:113",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutCompletionMotion.kt:94",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutHistoryScreen.kt:228",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutRecordEditor.kt:221",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutRecordEditor.kt:244",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutRecordEditor.kt:76",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutSessionScreen.kt:407"
+    ]
+  },
+  {
+    "color": "#101512",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:33"
+    ]
+  },
+  {
+    "color": "#111111",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/calendar/CalendarScreen.kt:230",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutHistoryScreen.kt:125",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutHistoryScreen.kt:180"
+    ]
+  },
+  {
+    "color": "#163F35",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:31"
+    ]
+  },
+  {
+    "color": "#1D2822",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:19",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:28"
+    ]
+  },
+  {
+    "color": "#202A23",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:65",
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:34"
+    ]
+  },
+  {
+    "color": "#20FFFFFF",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:120"
+    ]
+  },
+  {
+    "color": "#23745F",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:25"
+    ]
+  },
+  {
+    "color": "#252525",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:18"
+    ]
+  },
+  {
+    "color": "#303330",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:35"
+    ]
+  },
+  {
+    "color": "#35FFFFFF",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:124"
+    ]
+  },
+  {
+    "color": "#3C4B40",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:51"
+    ]
+  },
+  {
+    "color": "#58C7AB",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:23",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:31",
+      "app/src/main/res/values/colors.xml:4"
+    ]
+  },
+  {
+    "color": "#5D3508",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:32"
+    ]
+  },
+  {
+    "color": "#5F6B62",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:20",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:30"
+    ]
+  },
+  {
+    "color": "#73B6D5",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:38"
+    ]
+  },
+  {
+    "color": "#925009",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:27"
+    ]
+  },
+  {
+    "color": "#9CAC9E",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:40"
+    ]
+  },
+  {
+    "color": "#AC3932",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:47"
+    ]
+  },
+  {
+    "color": "#B8101814",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:92"
+    ]
+  },
+  {
+    "color": "#D2D5D2",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:36"
+    ]
+  },
+  {
+    "color": "#D5EDE4",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:124"
+    ]
+  },
+  {
+    "color": "#D9101814",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:92"
+    ]
+  },
+  {
+    "color": "#DCE6DF",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:30"
+    ]
+  },
+  {
+    "color": "#DDE3E7",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:21"
+    ]
+  },
+  {
+    "color": "#E9EEF1",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:17",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:120"
+    ]
+  },
+  {
+    "color": "#F2A03D",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:24",
+      "app/src/main/res/values/colors.xml:5"
+    ]
+  },
+  {
+    "color": "#F2F5ED",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:39"
+    ]
+  },
+  {
+    "color": "#F3F5F6",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:16",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:77",
+      "app/src/main/res/values/colors.xml:6"
+    ]
+  },
+  {
+    "color": "#FAFCF9",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutPosterRenderer.kt:29"
+    ]
+  },
+  {
+    "color": "#FFFFFF",
+    "locations": [
+      "app/src/main/java/com/fitlog/app/ui/calendar/CalendarScreen.kt:290",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:165",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:171",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:176",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:184",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:65",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:95",
+      "app/src/main/java/com/fitlog/app/ui/glass/GlassSurface.kt:96",
+      "app/src/main/java/com/fitlog/app/ui/home/HomeDock.kt:332",
+      "app/src/main/java/com/fitlog/app/ui/home/HomeScreen.kt:165",
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:15",
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:42",
+      "app/src/main/java/com/fitlog/app/ui/theme/Theme.kt:43",
+      "app/src/main/java/com/fitlog/app/ui/workout/NewTrainingPlanScreen.kt:152",
+      "app/src/main/java/com/fitlog/app/ui/workout/NewTrainingPlanScreen.kt:279",
+      "app/src/main/java/com/fitlog/app/ui/workout/WorkoutSessionScreen.kt:407",
+      "app/src/main/res/values/colors.xml:3"
+    ]
+  }
+]

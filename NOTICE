@@ -1,0 +1,12 @@
+LiftingLoop
+Copyright 2026 DAVID DAI and LiftingLoop contributors
+
+Original project code is licensed under the Apache License, Version 2.0.
+Third-party code and assets retain their respective licenses and rights.
+
+This project includes adapted Backdrop shaders:
+Copyright 2025 Kyant
+See docs/third-party/Backdrop-NOTICE.txt and Backdrop-LICENSE.txt.
+
+Additional attributions are recorded in THIRD_PARTY_NOTICES.md and
+app/src/main/assets/THIRD-PARTY-NOTICES.txt.

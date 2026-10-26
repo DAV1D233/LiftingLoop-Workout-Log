@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#FFFFFF</color>
+    <color name="brand_green">#58C7AB</color>
+    <color name="brand_orange">#F2A03D</color>
+    <color name="launcher_background">#F3F5F6</color>
+</resources>

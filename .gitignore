@@ -1,0 +1,26 @@
+/.gradle/
+/.kotlin/
+/.local/
+/.refactor-backup/
+/local.properties
+/app/build/
+/checks/build/
+/releases/*.apk
+
+# Local tools, credentials and generated files
+**/build/
+**/__pycache__/
+*.pyc
+*.keystore
+*.jks
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+.idea/
+*.iml
+*.hprof
+*.log
+.DS_Store
+Thumbs.db

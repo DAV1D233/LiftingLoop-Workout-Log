@@ -1,0 +1,19 @@
+Backdrop optical shader adaptation for FitLog
+Copyright 2025 Kyant
+Source: https://github.com/Kyant0/AndroidLiquidGlass
+Pinned commit: 65ab177e90e5c1d8c62e70cf7755841982da65f6
+License: Apache License 2.0 (see Backdrop-LICENSE.txt)
+
+Modified by FitLog, 2026-10-14:
+Extracted RoundedRectSDF, RoundedRectRefractionShaderString and DefaultHighlightShaderString
+from backdrop/src/commonMain/kotlin/com/kyant/backdrop/internal/Shaders.kt.
+Replaced multiplatform effect/cache wrappers with native Android RuntimeShader,
+RenderEffect and Compose ShaderBrush adapters. Retained upstream AGSL equations.
+Added FitLog material presets, icon-core contrast protection, local halo and fallback policy.
+This distribution does not include the complete Backdrop library.
+
+Modified by FitLog, 2026-10-17:
+Added native Material button adapters and CONTROL lens parameters using the existing
+Apache-2.0 shader adaptation. LiquidButton/LiquidToggle examples were design references;
+the high-level multiplatform components and their gesture implementations were not copied.
+Preserved upstream shader attribution and license; no complete library dependency added.

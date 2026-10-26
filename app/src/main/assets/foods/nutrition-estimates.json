@@ -1,0 +1,74 @@
+{
+  "新奥尔良烤鸡腿堡": {
+    "calories": 420,
+    "portion": "1个",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "香辣鸡腿堡": {
+    "calories": 513,
+    "portion": "1个",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "劲脆鸡腿堡": {
+    "calories": 520,
+    "portion": "1个",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "老北京鸡肉卷": {
+    "calories": 477,
+    "portion": "1个",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "吮指原味鸡": {
+    "calories": 242,
+    "portion": "1块（约87克）",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "香辣鸡翅": {
+    "calories": 235,
+    "portion": "1对",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "黄金鸡块": {
+    "calories": 235,
+    "portion": "5块（不含蘸酱）",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "太阳蛋": {
+    "calories": 90,
+    "portion": "1个",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "皮蛋瘦肉粥": {
+    "calories": 190,
+    "portion": "1碗",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "安心油条": {
+    "calories": 190,
+    "portion": "1根",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "土豆泥": {
+    "calories": 75,
+    "portion": "1份",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  },
+  "芙蓉荟蔬汤": {
+    "calories": 47.5,
+    "portion": "1杯",
+    "source": "公开热量参考估算（区间中值）· 非品牌营养承诺",
+    "sourceUrl": "https://www.ziyuedesign.com/chain-food-calorie-guide"
+  }
+}

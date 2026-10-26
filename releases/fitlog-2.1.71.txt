@@ -1,0 +1,11 @@
+FitLog 2.1.71 (versionCode 82)
+APK: fitlog-2.1.71.apk
+Application: com.fitlog.app
+Minimum Android: 8.0 / API 26
+Bytes: 16361375
+SHA256: 8B53862E2A5FA69449D7EAD2EE4FE016B5F9972EB97E7DBCF2D0DD0317C6B2AF
+Signing certificate SHA256: a2c3533ae34b46a03ccb581370b568b09708adbf92794200fbc872c90ab89d7d
+Build: assembleDebug --offline; apksigner verify passed; aapt metadata verified.
+Source checks: compileDebugKotlin, lintDebug, 341 domain checks, 3918 sharing/Gaussian assertions, SQLite migration/transaction checks passed.
+Includes 2.1.66–2.1.71: compact food quantity controls, black add button, neutral pre-training copy, body weight adjustments/sync, rest group cues, full workout/share photo poster editor, first-hold Dock input fix.
+No device installation or cold-start touch/camera validation performed: adb has no connected device.

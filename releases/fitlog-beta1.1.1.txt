@@ -1,0 +1,12 @@
+FitLog beta1.1.1 (versionCode 98)
+APK: fitlog-beta1.1.1.apk
+Application: com.fitlog.app (unchanged; supports in-place upgrade)
+Minimum Android: 8.0 / API 26
+Bytes: 19937573
+SHA256: 6DE653FA4F1761849E45AF88D893BAD2E13181D8DD5775E78AA2BA1616879B40
+Signing certificate SHA256: a2c3533ae34b46a03ccb581370b568b09708adbf92794200fbc872c90ab89d7d
+Build: assembleDebug --offline; apksigner verify passed; aapt version/application metadata verified.
+Validation: app and instrumentation compilation, Lint, 352 domain, 43 cardio, 8 food tags, 21 schedule catch-up, 32 Bili links, 7016 share layout/legacy Gaussian checks, SQLite migrations and transactions passed.
+No device connected for this release; no fresh on-device test or installation performed.
+Rebuilt in place at user's request, keeping beta1.1.1 / 98. Poster preview/export set values now include the weight unit, e.g. 50kg ×10. Compilation and 7016 share checks passed for this change.
+Includes all source changes since 2.1.71, plus saved daily completion opens achievement details directly; simplified detail/share headers; removed photo softening; real landscape video fullscreen and portrait app; Settings FITLOG opens About with design credit, AI/tool credits, disclaimer and third-party notices.
