@@ -174,7 +174,7 @@ internal fun WorkoutPosterEditor(summary: SessionSummary, initialPhoto: String? 
     }
     Dialog(onDismissRequest = { if (!working) { if (fullscreen) fullscreen = false else dismiss() } },
         properties = DialogProperties(usePlatformDefaultWidth = false, decorFitsSystemWindows = false)) {
-        LiftingLoopTheme {
+        FitLogTheme {
             val view = LocalView.current
             DisposableEffect(fullscreen, view) {
                 val controller = (view.parent as? DialogWindowProvider)?.window?.let { WindowCompat.getInsetsController(it, view) }
